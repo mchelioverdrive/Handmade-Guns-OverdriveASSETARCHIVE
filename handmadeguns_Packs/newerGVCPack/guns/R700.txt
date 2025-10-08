@@ -36,6 +36,7 @@ Bursts,1
 Rates,1
 attachRestriction,true
 allowattach,Bullet_AT
+Motion,0.95
 
 ModelEquipped,-0.7f,0.5f,-0.6f
 ModelHigh,0.99F,0.99F,0.99F

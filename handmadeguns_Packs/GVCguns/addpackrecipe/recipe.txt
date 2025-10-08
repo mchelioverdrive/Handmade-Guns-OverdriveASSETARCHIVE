@@ -764,16 +764,16 @@ Slot7,minecraft:emerald:
 Slot8,minecraft:emerald:
 CraftItem,HandmadeGuns:M320:0:1
 
-AddRecipe
-Slot1,HandmadeGuns:bullet_gl:
-Slot2,minecraft:iron_ingot:
-Slot3,minecraft:iron_block:
-Slot5,minecraft:planks:
-Slot6,minecraft:planks:
-Slot7,minecraft:emerald:
-Slot8,minecraft:emerald:
-Slot9,minecraft:emerald:
-CraftItem,HandmadeGuns:M32:0:1
+//AddRecipe
+//Slot1,HandmadeGuns:bullet_gl:
+//Slot2,minecraft:iron_ingot:
+//Slot3,minecraft:iron_block:
+//Slot5,minecraft:planks:
+//Slot6,minecraft:planks:
+//Slot7,minecraft:emerald:
+//Slot8,minecraft:emerald:
+//Slot9,minecraft:emerald:
+//CraftItem,HandmadeGuns:M32:0:1
 
 AddRecipe
 Slot1,HandmadeGuns:bullet_rr_hmg:
@@ -862,41 +862,23 @@ CraftItem,HandmadeGuns:PTRD1941:0:1
 
 
 
-AddRecipe
-Slot1,minecraft:diamond:
-Slot2,minecraft:diamond:
-Slot3,minecraft:diamond:
-Slot4,minecraft:iron_block:
-Slot5,minecraft:iron_block:
-Slot8,minecraft:emerald_block:
-Slot9,minecraft:beacon:
-CraftItem,HandmadeGuns:PTRK2041:0:1
 
-AddRecipe
-Slot1,minecraft:diamond:
-Slot2,minecraft:diamond:
-Slot3,minecraft:diamond_block:
-Slot4,minecraft:iron_block:
-Slot5,minecraft:iron_block:
-Slot8,minecraft:beacon:
-Slot9,minecraft:beacon:
-CraftItem,HandmadeGuns:2A115:0:1
 
-AddRecipe
-SET_PATTERN, B ,0
-SET_PATTERN, B ,1
-SET_PATTERN,AAA,2
-SLOT_A,minecraft:iron_block:
-SLOT_B,minecraft:iron_ingot:
-CraftItem,HandmadeGuns:L16Mortar:0:1
+//AddRecipe
+//SET_PATTERN, B ,0
+//SET_PATTERN, B ,1
+//SET_PATTERN,AAA,2
+//SLOT_A,minecraft:iron_block:
+//SLOT_B,minecraft:iron_ingot:
+//CraftItem,HandmadeGuns:L16Mortar:0:1
 
-AddRecipe
-Slot2,minecraft:iron_ingot:
-Slot4,minecraft:iron_ingot:
-Slot5,minecraft:stick:
-Slot6,minecraft:iron_ingot:
-Slot8,minecraft:stick:
-CraftItem,HandmadeGuns:M1943 Shovel:0:1
+//AddRecipe
+//Slot2,minecraft:iron_ingot:
+//Slot4,minecraft:iron_ingot:
+//Slot5,minecraft:stick:
+//Slot6,minecraft:iron_ingot:
+//Slot8,minecraft:stick:
+//CraftItem,HandmadeGuns:M1943 Shovel:0:1
 
 
 //AddSmallRecipe

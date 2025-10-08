@@ -10,6 +10,8 @@ Cycle,1.5
 Recoil,2
 Recoil_sneaking,1.5
 
+Motion,0.95
+
 ReloadTime,50
 
 RemainingBullet,30

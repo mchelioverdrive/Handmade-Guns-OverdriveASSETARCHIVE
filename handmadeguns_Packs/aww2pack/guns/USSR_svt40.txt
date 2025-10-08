@@ -27,6 +27,7 @@ ModelWidthZ,0.0f,0.0f,0.0f
 ModelRotationX,180f,180f,180f
 ModelRotationY,45f,45f,45
 ModelRotationZ,180f,180f,180f
+Motion,0.95
 
 ModelArm,true
 ModelArmRotationR,-1.57f,-0.2f,-1.57f

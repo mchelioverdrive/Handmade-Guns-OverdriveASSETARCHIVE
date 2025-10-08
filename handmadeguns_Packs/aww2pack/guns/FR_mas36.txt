@@ -24,6 +24,7 @@ ModelWidthX,0.694f,0.694f,0.694f
 ModelRotationX,180f,180f,180f
 ModelRotationY,45f,45f,45
 ModelRotationZ,180f,180f,180f
+Motion,0.95
 
 SimpleADSOffsetX,0,0,0
 SimpleADSOffsetZ,0.8,0.8,0.8

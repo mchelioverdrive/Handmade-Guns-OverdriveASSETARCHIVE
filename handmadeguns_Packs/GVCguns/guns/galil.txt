@@ -33,6 +33,8 @@ CustomFlash,arrow,1
 Bursts,1,-1,0
 Rates,1.845,1.845,1.845
 
+Motion,0.96
+
 attachRestriction,true
 //todo
 //allowattach,reddot

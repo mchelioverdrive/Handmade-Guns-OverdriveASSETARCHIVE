@@ -30,6 +30,7 @@ ModelArmRotationR,-1.57f,-0.2f,-1.57f
 ModelArmOffsetR,0.2f,0.5f,0.3f
 ModelArmRotationL,-0.0f,-2.3f,2.0f
 ModelArmOffsetL,0.25f,0.6f,-0.2f
+Motion,0.98
 
 Mat25Point,0.0f,0.688f,1.3f
 Mat25Rotation,0f,0f,0f

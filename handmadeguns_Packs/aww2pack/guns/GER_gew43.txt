@@ -20,6 +20,7 @@ ModelScala,0.8f
 InworldScale,1.2f
 ModelEquipped,-0.7f,0.3f,-0.2f
 ModelHigh,1.35f,0.85f,0.85f
+Motion,0.95
 
 SimpleADSOffsetX,0,0,0
 SimpleADSOffsetZ,0.8,0.8,0.8

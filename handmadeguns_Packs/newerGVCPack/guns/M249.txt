@@ -7,7 +7,7 @@ ADS_Spread_coefficient,0.1
 BlletSpreadDiffusion,6,0,1.5,0.1,2,0.7
 Cycle,1.5
 
-Motion,0.7
+Motion,0.75
 
 Recoil,3
 Recoil_sneaking,2.5

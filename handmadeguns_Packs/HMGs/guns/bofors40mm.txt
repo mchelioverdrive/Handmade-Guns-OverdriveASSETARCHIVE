@@ -25,7 +25,7 @@ ModelWidthZ,1.2,1.2,1.2
 ModelEquipped,-0.7F,-8.5,3.5
 OnEntity_PlayerPosOffset,0,0,-1
 OnEntity_Yoffset,0.2
-Motion,0.35
+Motion,0.01
 Tabname,HMG_GVCGuns
 
 
@@ -93,7 +93,7 @@ AddParts,obj10
 
 Name,Bofors-40mm
 restrictTurretMoveSpeed,4,4
-TurretHP,200
+TurretHP,100
 LMG,bofors_40mm
 
 

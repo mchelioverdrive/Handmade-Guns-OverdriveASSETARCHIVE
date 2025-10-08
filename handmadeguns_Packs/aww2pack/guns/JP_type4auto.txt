@@ -150,7 +150,7 @@ ScopeTexture,mildot2.png,mildot2.png,mildot2.png
 RenderCross,false
 RightType,1
 Automatic,true
-
+Motion,0.95
 
 SR,Type 4 Rifle
 Name,JPType 4 Rifle

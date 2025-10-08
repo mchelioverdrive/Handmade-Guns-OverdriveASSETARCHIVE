@@ -7,7 +7,7 @@ Recoil,0.5d
 ReloadTime,50
 RemainingBullet,47
 Attacking,2.0f
-Motion,0.5d
+Motion,0.45d
 Zoom,1.0f,2.0f,4.0f
 ZoomRender,true
 ZoomRenderType,true,true,true

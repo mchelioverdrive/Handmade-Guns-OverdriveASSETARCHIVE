@@ -8,10 +8,10 @@ Tabname,HMG_Ammo
 
 CustomMagazine,12.7mm Magazine HE
 
-Recipe1,abb
-Recipe2,b  
-Recipe3,c  
-ItemA,minecraft,iron_block
-ItemB,minecraft,gunpowder
-ItemC,minecraft,emerald
-addNewRecipe,HandmadeGuns,12.7mm Magazine(HE),3
+//Recipe1,abb
+//Recipe2,b  
+//Recipe3,c  
+//ItemA,minecraft,iron_block
+//ItemB,minecraft,gunpowder
+//ItemC,minecraft,emerald
+//addNewRecipe,HandmadeGuns,12.7mm Magazine HE ,1

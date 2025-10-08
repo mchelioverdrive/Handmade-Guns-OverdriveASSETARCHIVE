@@ -22,7 +22,7 @@ ModelScala,0.5
 ModelHigh,-6.385,-6.385,-6.385
 ModelWidthZ,6,6,6
 ModelEquipped,-0.7F,-8.5,3.5
-Motion,0.35
+Motion,0.01
 Tabname,HMG_GVCGuns
 
 CustomFlash,CannonMuzzleFlash,3
@@ -89,7 +89,7 @@ AddParts,SYS_ALL_Base
 
 
 Name,Flak-38
-TurretHP,200
+TurretHP,100
 LMG,Flak-38
 
 

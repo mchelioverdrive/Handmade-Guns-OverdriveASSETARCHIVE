@@ -16,6 +16,7 @@ GunSoundCooking,handmadeguns.a_cock
 CanObj,true
 ObjModel,gew98.obj
 ObjTexture,paret.png
+Motion,0.95
 
 ModelScala,0.8f
 InworldScale,1.8f

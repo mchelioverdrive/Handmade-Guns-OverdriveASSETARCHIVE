@@ -4,7 +4,7 @@ BulletGravity,0.49f
 BlletSpread,2.5F
 ADS_Spread_coefficient,0.7
 BlletSpreadDiffusion,8,0,1.5,0.1,2,0.7
-Motion,0.1
+Motion,0.08
 Recoil,80.0d
 Recoil_sneaking,60.5
 ReloadTime,60

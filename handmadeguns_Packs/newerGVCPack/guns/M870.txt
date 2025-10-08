@@ -25,6 +25,7 @@ InworldScale,1.8f
 bulletFuse,16
 Bursts,1
 Rates,0
+Motion,0.95
 
 attachRestriction,true
 //allowattach,Bullet_Dart

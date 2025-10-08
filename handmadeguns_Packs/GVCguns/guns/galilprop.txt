@@ -17,6 +17,8 @@ RemainingBullet,30
 Attacking,3.5f
 Zoom,1.0f,1.0f,4.0f
 
+Motion,0.96
+
 ZoomRender,true
 ZoomRenderType,true,true,false
 ZoomRenderTypeTxture,false,false,true

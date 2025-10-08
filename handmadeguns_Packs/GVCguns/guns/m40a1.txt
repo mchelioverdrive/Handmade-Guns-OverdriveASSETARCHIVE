@@ -10,6 +10,8 @@ Cycle,2
 Recoil,8
 Recoil_sneaking,5
 
+Motion,0.88
+
 
 ReloadTime,200
 

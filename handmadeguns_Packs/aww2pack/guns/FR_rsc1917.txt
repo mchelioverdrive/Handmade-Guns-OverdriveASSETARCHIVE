@@ -30,6 +30,7 @@ ModelArmRotationR,-1.57f,0f,-1.57f
 ModelArmOffsetR,0.35f,0.5f,0.1f
 ModelArmRotationL,-0.0f,-2.3f,2.0f
 ModelArmOffsetL,0.2f,0.65f,-0.5f
+Motion,0.95
 
 SimpleADSOffsetX,0,0,0
 SimpleADSOffsetZ,0.8,0.8,0.8
