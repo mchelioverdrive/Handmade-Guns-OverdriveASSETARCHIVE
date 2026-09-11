@@ -1,3 +1,7 @@
+NOTICE: this repository is archived and only for assets! I moved all the assets to be with the code for this project for streamlining development! You can find a link to the updated assets+code here! https://github.com/RagexPrince683/GvCEXOverdrive/tree/master/HMG/eclipse/handmadeguns_Packs
+
+
+
 HMG License/Legal English
 
 1.If you don't have commercial purpose, you can do modification or Redistribution the mod which published in this project.
